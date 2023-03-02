@@ -2,6 +2,7 @@
 
 
 - 언어
+
 <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/> <img alt="SQL" src ="https://img.shields.io/badge/SQL-4479A1.svg?&style=for-the-badge&logo=SQL&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 - 플랫폼
