@@ -1,6 +1,8 @@
 ### 안녕하세요 데이터 분석가 곽배희 입니다
 
 
+- 언어
+- 플랫폼
 <img alt="RStudio" src ="https://img.shields.io/badge/RStudio-75AADB.svg?&style=for-the-badge&logo=RStudio&logoColor=white"/>
 
 <!--
