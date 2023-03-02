@@ -2,8 +2,7 @@
 
 
 - 언어
-- 플랫폼
-<img alt="RStudio" src ="https://img.shields.io/badge/RStudio-75AADB.svg?&style=for-the-badge&logo=RStudio&logoColor=white"/>
+- 플랫폼 <img alt="RStudio" src ="https://img.shields.io/badge/RStudio-75AADB.svg?&style=for-the-badge&logo=RStudio&logoColor=white"/>
 
 <!--
 **bezkwag/bezkwag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
