@@ -33,28 +33,15 @@
 
 ________________
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bezkwag&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
 
 
-- 플랫폼
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bezkwag&theme=nord_bright) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bezkwag&theme=nord_bright)
 
 
-- DB
-<img alt="Apache%20Hadoop" src ="https://img.shields.io/badge/Apache%20Hadoop-66CCFF.svg?&style=for-the-badge&logo=Apache%20Hadoop&logoColor=white"/>
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=dlattehauma)](https://github.com/loosie/github-readme-tistory-card)
 
-<!--
-**bezkwag/bezkwag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
