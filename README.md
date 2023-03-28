@@ -39,9 +39,6 @@ ________________
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bezkwag&theme=nord_bright) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bezkwag&theme=nord_bright)
 
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=dlattehauma)](https://github.com/loosie/github-readme-tistory-card)
-
-
 </div>
 
 
