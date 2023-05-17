@@ -36,7 +36,7 @@ ________________
 <div align="center">
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bezkwag&theme=nord_bright) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bezkwag&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bezkwag&theme=nord_bright) 
 
 
 </div>
